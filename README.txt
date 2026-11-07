@@ -8,16 +8,15 @@ This is the improved version of my final project in **CPE 018: Emerging Technolo
 
 ---
 
-## 📸 Screenshots /
+## 📸 Screenshots
 
-| Scanner | Accessibility modes | 
-| ![Scanner](screenshots/scanner.png) | ![Accessibility](screenshots/accessibility.png) |
+| Scanner | Accessibility modes |
+|---|---|
+| ![Scanner](scanner.png) | ![Accessibility](accessibility.png) |
 
 | GhostCube | CubeCoach |
 |---|---|
-| ![GhostCube](screenshots/ghostcube.png) | ![CubeCoach](screenshots/cubecoach.png) |
-
-> Add your screenshots to a `screenshots/` folder using the file names above. A short demo video link can go here too.
+| ![GhostCube](ghostcube.png) | ![CubeCoach](cubecoach.png) |
 
 ---
 
