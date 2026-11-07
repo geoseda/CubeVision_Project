@@ -1,0 +1,90 @@
+{
+  "project": "CubeVision X",
+  "faces": {
+    "U": [
+      "White",
+      "Yellow",
+      "White",
+      "Yellow",
+      "White",
+      "Yellow",
+      "White",
+      "Yellow",
+      "White"
+    ],
+    "F": [
+      "Red",
+      "Orange",
+      "Red",
+      "Orange",
+      "Red",
+      "Orange",
+      "Red",
+      "Orange",
+      "Red"
+    ],
+    "R": [
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue"
+    ],
+    "L": [
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green",
+      "Blue",
+      "Green"
+    ],
+    "B": [
+      "Orange",
+      "Red",
+      "Orange",
+      "Red",
+      "Orange",
+      "Red",
+      "Orange",
+      "Red",
+      "Orange"
+    ],
+    "D": [
+      "Yellow",
+      "White",
+      "Yellow",
+      "White",
+      "Yellow",
+      "White",
+      "Yellow",
+      "White",
+      "Yellow"
+    ]
+  },
+  "solution": [
+    "R",
+    "L",
+    "U2",
+    "R",
+    "L",
+    "U2",
+    "D2",
+    "R2",
+    "F2",
+    "U2",
+    "R2",
+    "F2",
+    "R2",
+    "U2",
+    "R2",
+    "B2"
+  ],
+  "display_mode": "Symbols"
+}
